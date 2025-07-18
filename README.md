@@ -1,7 +1,7 @@
 # spdy2023-OneDrive
 班级云相册客户端下载
 
-官方网站（需要梯子）：https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download
+官方网站：https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download
 
 国内用户：https://wwcm.lanzoue.com/b00ocgr1wj 密码:SPDY2023
 
