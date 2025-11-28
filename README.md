@@ -12,3 +12,8 @@
 客户端下载：
 
 ![image](https://github.com/spdy202302/spdy2023-OneDrive/blob/main/%E4%B8%8B%E8%BD%BD.png)
+
+# Windows版本无法登录？
+WIN+R》inetcpl.cpl 》高级》开启"TPL 1.2"
+WIN+R> inetcpl.cpl 》连接》局域网设置》[开启]自动检测 [关闭]LAN代理
+WIN+X》终端管理员》 netsh winsock reset catalog 
